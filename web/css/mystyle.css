@@ -1,0 +1,9 @@
+body{
+}
+.primary-background{
+    background: #00695c!important;
+}
+.default{
+    border-color: #00695c;
+    background: #00695c
+}
